@@ -82,8 +82,8 @@ export default function Home() {
 
         {/* 한 줄 소개글 */}
         <p className="mt-4 text-center text-xs sm:text-sm leading-relaxed text-zinc-600 break-keep dark:text-zinc-300/90 font-light">
-          물 위에 피어난 연꽃처럼 맑고 잔잔하게 🪷<br />
-          바람과 빛이 머무는 소소한 일상을 기록합니다.
+          기술과 코드로 더 나은 사용자 경험과 가치를 만들어가는 개발자입니다. 💻✨<br />
+          새로운 기술을 탐구하고 효율적인 문제 해결 과정을 즐깁니다.
         </p>
 
         {/* 링크 버튼 목록 */}
